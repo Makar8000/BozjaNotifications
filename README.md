@@ -1,4 +1,4 @@
-## Bozja Fate Notifications
+## Bozja Skirmish Notifications
 
 A simple script that allows you to get notifications on when Skirmishes pop.
 
