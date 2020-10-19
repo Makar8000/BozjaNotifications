@@ -5,6 +5,8 @@ A simple script that allows you to get notifications on when Skirmishes pop.
 Modify `fate-config.js` to configure which Skirmishes you need notifications on and API tokens.
 For push notifications, this overlay uses [Pushover](https://pushover.net/).
 
+Supports filters for only
+
 ### Installation
 
 1. Make sure you have [ngld's OverlayPlugin and cactbot](https://gist.github.com/ngld/e2217563bbbe1750c0917217f136687d#how-do-i-install-overlayplugin-or-cactbot) installed.
