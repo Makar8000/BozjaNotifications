@@ -26,7 +26,7 @@ const sendPushNotification = fate => {
   const pushOptions = {
     token: fateConfig.options.pushConfig.token,
     user: fateConfig.options.pushConfig.user,
-    title: "Fate Pop",
+    title: "Skirmish Pop",
     message: fate.name
   }
 
