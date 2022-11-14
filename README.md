@@ -9,7 +9,7 @@ For push notifications, this overlay uses [Pushover](https://pushover.net/).
 
 ### Installation
 
-1. Make sure you have [OverlayPlugin](https://overlayplugin.github.io/docs/setup/) installed.
+1. Make sure you have [OverlayPlugin and cactbot](https://overlayplugin.github.io/docs/setup/) installed.
 2. Download the latest code from [the main branch](https://github.com/Makar8000/BozjaNotifications/archive/main.zip).
 3. Extract the ZIP anywhere you like.
 4. In ACT, go to `Plugins` tab -> `OverlayPlugin.dll` tab -> Click on `New`.
