@@ -9,7 +9,7 @@ Supports filters for only
 
 ### Installation
 
-1. Make sure you have [ngld's OverlayPlugin and cactbot](https://gist.github.com/ngld/e2217563bbbe1750c0917217f136687d#how-do-i-install-overlayplugin-or-cactbot) installed.
+1. Make sure you have [OverlayPlugin](https://overlayplugin.github.io/docs/setup/) installed.
 2. Download the latest code from [the main branch](https://github.com/Makar8000/BozjaNotifications/archive/main.zip).
 3. Extract the ZIP anywhere you like.
 4. In ACT, go to `Plugins` tab -> `OverlayPlugin.dll` tab -> Click on `New`.
