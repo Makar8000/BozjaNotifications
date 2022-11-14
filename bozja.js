@@ -15,7 +15,7 @@ const sendTTSNotification = fate => {
   if (!shouldFire(fate, fateConfig.options.tts))
     return;
 
-  let cmd = { 'call': 'cactbotSay', 'text': `${fate.name}` };
+  let cmd = { 'call': 'say', 'text': `${fate.name}` };
   window.callOverlayHandler(cmd);
 }
 
