@@ -1,3 +1,5 @@
+### \*\* Now obsolete thanks to OverlayPlugin CE Lines \*\*
+
 ## Bozja Skirmish Notifications
 
 A simple script that allows you to get notifications on when Skirmishes pop.
